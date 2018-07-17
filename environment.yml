@@ -2,5 +2,6 @@ name: hse-aml-nlp
 dependencies:
 - python=3.6
 - numpy=1.14
+- nb_conda
 - pip:
   - tensorflow==1.9
